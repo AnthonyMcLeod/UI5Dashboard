@@ -1,0 +1,13 @@
+#Password=<< Existing password/certificate removed on Export >>
+#
+#Wed May 25 20:24:47 UTC 2016
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen
+Name=iotmms
+WebIDEEnabled=true
+CloudConnectorVersion=2
+URL=https\://iotmmsi840321trial.hanatrial.ondemand.com
+ProxyType=Internet
+User=i840321
+WebIDESystem=API
